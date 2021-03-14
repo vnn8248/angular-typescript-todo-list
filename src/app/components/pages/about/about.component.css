@@ -1,0 +1,16 @@
+div {
+  max-width: 800px;
+  margin: 100px auto;
+  background: #f4f4f4;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+h1, p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  text-align: left;
+}

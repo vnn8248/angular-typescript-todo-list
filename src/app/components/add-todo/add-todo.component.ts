@@ -18,14 +18,13 @@ export class AddTodoComponent implements OnInit {
   }
 
   onSubmit() {
-    console.log("hello");
     const todo = {
       title: this.title,
       completed: false
     }
 
     this.addTodo.emit(todo);
-
+    this.title = "";
   }
 
 
