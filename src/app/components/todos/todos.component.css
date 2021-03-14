@@ -1,0 +1,10 @@
+.list {
+  max-width: 1200px;
+  margin: 100px auto;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.list h1 {
+  text-align: center;
+}
